@@ -1,4 +1,4 @@
 Hello git
-mod git1
+mod git1 master update
 mod git2
 update hot-fix 分支增加了新功能
